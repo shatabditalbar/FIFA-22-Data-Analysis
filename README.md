@@ -11,5 +11,5 @@ Physical fitness
 International Reputation
 Wages
 
-
+The relation among these and all other parameters are observe in order to 
 
