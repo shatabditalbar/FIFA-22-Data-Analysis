@@ -11,5 +11,5 @@ The FIFA22 dataset contains all key attributes, and features of male football pl
 * International Reputation
 * Wages
 
-The relation among these and all other parameters are observe in order to 
+The relation among all other parameters are observed in order to reinforce performance of players to win th match.
 
